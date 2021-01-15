@@ -1,0 +1,21 @@
+{
+  "name": "SCA_Cloud_School_Appl",
+  "version": "1.0.0",
+  "description": "A CLI to install software like wget, curl, node and check their versions depending on the operating system",
+  "main": "bin/index.js",
+  "bin": {
+    "cloudapplication": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "os-name": "^4.0.0",
+    "shelljs": "^0.8.4"
+  }
+}
