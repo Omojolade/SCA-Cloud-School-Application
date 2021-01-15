@@ -1,6 +1,6 @@
 # SCA CLOUD SCHOOL APPLICATION
 
-## The CLI application to install software wget, curl, node.js
+The CLI application to install software wget, curl, node.js. Three OS platform, MacOS, Windows and Linux are the platforms used in this project
 
 ### Setup
 1. open your computer’s command prompt (Windows) or terminal (macOS/Linux). Change the current directory to the folder where you save your documents or projects. Enter the following commands to create a new project folder and initialize the project.

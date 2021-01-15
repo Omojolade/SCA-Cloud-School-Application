@@ -5,7 +5,7 @@ const { exec } = require('child_process')
 const path = require('path')
 const http = require('http');
 
-//Widely known OS platform
+
 const getRootDir = path.parse(process.cwd()).root
 const isMacOs = os.platform() === 'darwin';
 const isWin = os.platform() === "win32";
